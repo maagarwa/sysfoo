@@ -1,4 +1,4 @@
 sysfoo:
   image: maagarwa/sysfoo:staging
   ports:
-    - 9000:8080
+    - 9898:8080
