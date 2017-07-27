@@ -61,7 +61,7 @@
 
 				<!-- Footer -->
 					<footer id="footer">
-						<p class="copyright">&copycopyrights; Designed by Meenachi</a>.</p>
+						<p class="copyright">&copycopyrights; Designed By Meenachi</a>.</p>
 					</footer>
 
 			</div>
